@@ -1,0 +1,3 @@
+export WEB_ROOT=/home/mariefhm/test
+rm -rf $WEB_ROOT/*    
+cp -r * $WEB_ROOT
